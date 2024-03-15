@@ -45,8 +45,8 @@
 
 <h2>Implementation</h2>
 <p>
-  by setting the initial speed to 0 m/s and initial time to 0 sec, I took intervals of 0.12 sec. 
-  By using these increments, I could write a program that would give information on the raindrop every 0.12 sec, based on its previous information 0.12 sec ago. 
+  By setting the initial speed to 0 m/s and initial time to 0 sec, I took intervals of 0.12 sec. 
+  Using these increments, I could write a program that would give information on the raindrop every 0.12 sec, based on its previous information 0.12 sec ago. 
   In other words, instead of using calculus by taking a limit dt that goes to 0, I took increments of <b>dt = 0.12 sec</b>.
 </p>
 <p>
